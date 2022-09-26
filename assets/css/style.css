@@ -1,13 +1,16 @@
+/* Universal styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Styles for body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styles for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -104,6 +107,7 @@ main {
     font-size: 36px;
 }
 
+/* Styles for the aside benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
