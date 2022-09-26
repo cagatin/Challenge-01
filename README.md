@@ -10,3 +10,7 @@ For this activity, we were tasked with <strong>refactoring</strong> the previous
 <br>
 <br>
 You can find the Deployed application here: [Visit the deployed app!](https://cagatin.github.io/Horiseon/) 
+## Screenshots
+![](assets/images/overview.PNG) <br>
+![](assets/images/main-site.PNG)<br>
+![](assets/images/footer.PNG)<br>
