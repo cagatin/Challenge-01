@@ -15,15 +15,18 @@ header {
     color: #ffffff;
 }
 
+/* Styles for Header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Styles for the "seo" span of the header */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles for the Navbar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,40 +35,48 @@ header nav {
     font-size: 20px;
 }
 
+/* Styles for List UL */
 header nav ul {
     list-style-type: none;
 }
 
+/* Styles for list items in the UP */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Styles for Links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph styles */
 p {
     font-size: 16px;
 }
 
+/* Styles for Hero Image */
 .hero {
-    height: 100%px;
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
 }
 
+/* Class which causes elements to float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Class which causes elements to float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles for main  */
 main {
     width: 75%;
     display: inline-block;
@@ -83,23 +94,26 @@ main {
     background-color: #2589bd;
 }
 
+/* Styles for the aside sections */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styles for the h2 within each seciton of the aside */
 .side-section h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Styles for the images within the aside */
 .side-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* Styling the sections found in the Main tag */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -109,15 +123,18 @@ aside section {
     color: #ffffff;
 }
 
+/* Styles for images found within main */
 .main-section img {
     max-height: 200px;
 }
 
+/* Styles for the headers of the sections in main */
 .main-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Footer styles */
 .footer {
     padding: 30px;
     clear: both;
@@ -125,6 +142,7 @@ aside section {
     text-align: center;
 }
 
-.footer h2 {
+/* Styles for the footer bold text */
+.footer b {
     font-size: 20px;
 }
